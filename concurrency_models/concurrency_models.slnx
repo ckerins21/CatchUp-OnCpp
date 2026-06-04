@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="concurrency_models/concurrency_models.vcxproj" Id="e6187a5a-717c-4f8f-ad57-8250ff24502a" />
+</Solution>

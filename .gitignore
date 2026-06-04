@@ -1,0 +1,27 @@
+# Build output
+x64/
+Debug/
+Release/
+*.exe
+*.obj
+*.ilk
+*.pdb
+*.idb
+*.tlog
+*.log
+*.recipe
+*.FileListAbsolute.txt
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.aps
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Compiled binaries
+*.dll
+*.lib
+*.exp
