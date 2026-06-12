@@ -25,3 +25,5 @@ Release/
 *.dll
 *.lib
 *.exp
+concurrency_models/concurrency_models/race
+concurrency_models/concurrency_models/orderbook_engine

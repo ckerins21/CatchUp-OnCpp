@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Solution Items/">
+    <File Path="idiom_godbolt.cpp" />
+  </Folder>
+  <Project Path="../../../../../source/repos/week3_performance_profiling/week3_performance_profiling/week3_performance_profiling.vcxproj" Id="c1a15c2e-d2c8-40de-a1e2-2746f5ffed66" />
+</Solution>
